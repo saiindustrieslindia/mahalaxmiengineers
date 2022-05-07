@@ -1,6 +1,5 @@
 gunicorn
 Django==3.2.13
 pytz==2022.1
-sqlparse==0.4.2
-typing_extensions==4.2.0
+
 
