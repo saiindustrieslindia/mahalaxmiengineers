@@ -1,5 +1,5 @@
 gunicorn
 Django==3.2.13
-pytz==2022.1
+
 
 
